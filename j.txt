@@ -1,6 +1,6 @@
 _G.Enabled = true
 --local data = readfile("nframes/owl.txt")
-local data = game:HttpGet("https://raw.githubusercontent.com/storageforrma/bad-apple-rma/main/frames.txt") -- prerendered amongus video
+local data = game:HttpGet("https://raw.githubusercontent.com/storageforrma/bad-apple-rma/main/frames.txt") -- bad apple
 
 function update(text)
     local args = {
